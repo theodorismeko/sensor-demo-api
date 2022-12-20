@@ -9,7 +9,7 @@ It reads the temperature, humidity and acoustic.
 * [spring.io](https://spring.io) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [IntelliJ](https://www.jetbrains.com/idea/) - IDE 
-* [Postman](https://www.getpostman.com/) - API Development Environment (Testing Documentation)
+* [cURL](https://curl.se/) - API Development Environment (Testing Documentation)
 * [MySQL](https://www.mysql.com/) - Database 
 
 
